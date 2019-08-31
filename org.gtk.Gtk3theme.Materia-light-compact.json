@@ -20,8 +20,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://github.com/nana-4/materia-theme/archive/v20190201.tar.gz",
-          "sha256": "f483894a5519cbc5e7e208047f86550d29291a7248372f045950a6849e2c1eb9"
+          "url": "https://github.com/nana-4/materia-theme/archive/v20190831.tar.gz",
+          "sha256": "7ab5423ecaef50d5e9cf94038f9a35a1bcb87e7b218edff316b4f92d4b7b8b67"
         }
       ]
     },
